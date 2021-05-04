@@ -1,0 +1,3 @@
+[submodule "src/vsmodlib-BuffStuff"]
+	path = src/vsmodlib-BuffStuff
+	url = https://github.com/chriswa/vsmodlib-BuffStuff.git

@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "side": "Universal",
+  "modid": "hotpoultice",
+  "name": "HotPoultice",
+  "authors": [ "goxmeor" ],
+  "description": "Changes Poultices to Heal-Over-Time instead of healing instantly",
+  "version": "1.0.0",
+  "dependency": {}
+}
